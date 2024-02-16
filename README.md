@@ -9,4 +9,5 @@ Try to push you own firstname.txt file (with lorem ipsum text inside?) in this g
 Some hint: You will need to branch the folder then do your modification, commit & push and at the end make a merge request to push the change to main branch ;)
 
 Edited by Irfan
+Edited by Alex
 Edited by Anthony
